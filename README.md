@@ -56,7 +56,7 @@ Data Analyst with experience in data cleaning, modelling, visualization, and rep
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
----
+
 <table>
   <tr>
     <td align="center">
@@ -91,7 +91,7 @@ Data Analyst with experience in data cleaning, modelling, visualization, and rep
     </td>
   </tr>
 </table>
----
+
 ## Projects
 
 <ul>
