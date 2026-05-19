@@ -5,7 +5,7 @@
 -->
 
 <h1 align="center">Hi, I'm RIFAYA BANU MAGDOOM</h1>
-<h2 align="center">Data Analysis </h2>
+<h2 align="center">Data Analyst | Python • SQL • Power BI • Tableau </h2>
 
 ---
 
@@ -20,7 +20,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="left">
-I'm a data enthusiast with a passion for transforming raw data into actionable insights. I enjoy working with real-world datasets, performing analysis, and visualizing results to support data-driven decision-making.
+Data Professional with experience in data cleaning, modelling, visualization, and reporting. I specialize in turning complex datasets into actionable insights using Python, SQL, Excel, Power BI, and Tableau.
 </p>
 
 ---
@@ -109,16 +109,12 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 
 <ul>
- <li>
-  <strong>Superstore Sales Analysis:</strong> 
-  <a href="https://github.com/Rifayabanu/Superstore-Sales-Analysis">
-    Repo Link
-  </a> | 
-  <a href="https://github.com/Rifayabanu/Superstore-Sales-Analysis/blob/main/Superstore%20Sales%20Analysis.ipynb">
-    Jupyter Notebook
-  </a>
+ 
+<li>
+  <strong>Superstore Sales Analysis</strong><br/>
+  <a href="https://github.com/Rifayabanu/Superstore-Sales-Analysis">GitHub Repository</a> | 
+  <a href="https://github.com/Rifayabanu/Superstore-Sales-Analysis/blob/main/Superstore%20Sales%20Analysis.ipynb">Jupyter Notebook</a>
 </li>
-
  
   
 <!--  <li>
@@ -144,11 +140,11 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 ## Connect With Me
 <p align="center">
 <!-- linkdin-->
-  <a href="www.linkedin.com/in/rifayabanu" target="_blank">
+  <a href="https://www.linkedin.com/in/rifayabanu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 <!-- Email -->
-  <a href="rifayabanu@gmail.com">
+  <a href="mailto:rifayabanu@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
