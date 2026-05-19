@@ -57,9 +57,9 @@ Data Analyst with experience in data cleaning, modelling, visualization, and rep
   <img src="https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-### Certifications
 
-<p align="left">
+
+<!-- <p align="left">
 
   <a href="https://www.credly.com/users/rifaya-banu-magdoom">
     <img src="https://images.credly.com/images/eef81318-aaa6-4e40-83bd-d40a6ee27b28/blob" width="120" />
@@ -72,7 +72,7 @@ Data Analyst with experience in data cleaning, modelling, visualization, and rep
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="120" alt="Oracle SQL Badge"/>
 </a>
 
-</p>
+</p> -->
 
 ## Projects
 
