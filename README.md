@@ -63,12 +63,19 @@ Data Analyst with experience in data cleaning, modelling, visualization, and rep
 
 <ul>
   <li>
-    <strong>Superstore Sales Analysis</strong><br/>
-    <a href="https://github.com/Rifayabanu/Superstore-Sales-Analysis">GitHub Repository</a> | 
-    <a href="https://github.com/Rifayabanu/Superstore-Sales-Analysis/blob/main/Superstore%20Sales%20Analysis.ipynb">Jupyter Notebook</a>
+    <strong>Superstore Sales Analysis: </strong>
+    <a href="https://github.com/Rifayabanu/Superstore-Sales-Analysis">REPO</a> | 
+  <!--  <a href="https://github.com/Rifayabanu/Superstore-Sales-Analysis/blob/main/Superstore%20Sales%20Analysis.ipynb">Jupyter Notebook</a> -->
   </li>
 </ul>
 
+<ul>
+  <li>
+    <strong>GameZone Sales Insight Analysis: </strong>
+    <a href="https://github.com/Rifayabanu/GameZone-Sales-Insight-Analysis">REPO</a> | 
+  
+  </li>
+</ul>
 ---
 
 ## Connect With Me
