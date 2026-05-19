@@ -4,8 +4,8 @@
 </p>
 -->
 
-<h1 align="center">Hi, I'm YOUR_NAME_HERE</h1>
-<h2 align="center">Data Analysis | Data Science </h2>
+<h1 align="center">Hi, I'm RIFAYA BANU MAGDOOM</h1>
+<h2 align="center">Data Analysis </h2>
 
 ---
 
@@ -41,9 +41,9 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 ### Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <!-- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>  -->
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
@@ -71,9 +71,9 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
-<img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+ <!-- <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/> -->
 
 <!-- R Ecosystem 
 <img src="https://img.shields.io/badge/Tidyverse-1E90FF?style=for-the-badge&logo=r&logoColor=white" alt="Tidyverse"/>
@@ -86,14 +86,14 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 ### Operating Systems
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-007ACC?style=for-the-badge&logo=windows" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Mac%20OS-F37626?style=for-the-badge&logo=mac%20os" alt="Mac OS"/>
+<!--  <img src="https://img.shields.io/badge/Mac%20OS-F37626?style=for-the-badge&logo=mac%20os" alt="Mac OS"/> -->
 </p>
 
 <br />
 
 ---
 
-## GitHub Stats
+<!-- ## GitHub Stats
 <p align="center">
   <img src="https://ghchart.rshah.org/Username Here" alt="GitHub Contribution Chart" />
 </p>
@@ -101,7 +101,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Username here&theme=default" alt="GitHub Streak" width="40%">
 </div>
-
+-->
 ---
 
 ## Projects
@@ -131,29 +131,29 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 ---
 
-## Future Project
+<!-- ## Future Project
 <ul>
   <li>Advanced SQL & Database Optimization</li>
   <li>Machine Learning & Predictive Analytics</li>
   <li>Cloud Data Platforms (AWS / Azure)</li>
 </ul>
-
+-->
 ---
 
 ## Connect With Me
 <p align="center">
 <!-- linkdin-->
-  <a href="YOUR LINKDIN URL" target="_blank">
+  <a href="www.linkedin.com/in/rifayabanu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 <!-- Email -->
-  <a href="YOUR_EMAIL_HERE">
+  <a href="rifayabanu@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-  <a href="YOUR_Facebook_LINK_HERE" target="_blank">
+<!--  <a href="YOUR_Facebook_LINK_HERE" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=FB&logoColor=white" alt="Facebook"/>
-  </a>
+  </a> -->
 
 </p>
 
