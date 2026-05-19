@@ -68,6 +68,9 @@ Data Analyst with experience in data cleaning, modelling, visualization, and rep
   <a href="https://www.credly.com/users/rifaya-banu-magdoom">
     <img src="https://images.credly.com/images/915addf1-19b1-4ccb-af08-5f1b785a5140/image.png" width="120" />
   </a>
+  <a href="https://www.credly.com/earner/earned/badge/f0037ec2-4f5a-4ff1-8ae3-ee1c34eca450">
+  <img src="https://images.credly.com/images/f0037ec2-4f5a-4ff1-8ae3-ee1c34eca450/blob" width="120"/>
+</a>
 
 </p>
 
