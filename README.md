@@ -57,9 +57,9 @@ Data Analyst with experience in data cleaning, modelling, visualization, and rep
   <img src="https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-<h2 align="center">Certifications</h2>
+### Certifications
 
-<p align="center">
+<p align="left">
 
   <a href="https://www.credly.com/users/rifaya-banu-magdoom">
     <img src="https://images.credly.com/images/eef81318-aaa6-4e40-83bd-d40a6ee27b28/blob" width="120" />
@@ -68,8 +68,8 @@ Data Analyst with experience in data cleaning, modelling, visualization, and rep
   <a href="https://www.credly.com/users/rifaya-banu-magdoom">
     <img src="https://images.credly.com/images/915addf1-19b1-4ccb-af08-5f1b785a5140/image.png" width="120" />
   </a>
-  <a href="https://www.credly.com/earner/earned/badge/f0037ec2-4f5a-4ff1-8ae3-ee1c34eca450">
-  <img src="https://images.credly.com/images/f0037ec2-4f5a-4ff1-8ae3-ee1c34eca450/blob" width="120"/>
+<a href="https://www.credly.com/earner/earned/badge/f0037ec2-4f5a-4ff1-8ae3-ee1c34eca450" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="120" alt="Oracle SQL Badge"/>
 </a>
 
 </p>
