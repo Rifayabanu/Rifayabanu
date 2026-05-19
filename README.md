@@ -65,7 +65,7 @@ Data Professional with experience in data cleaning, modelling, visualization, an
   <img src="https://img.shields.io/badge/Excel-Pivot%20Tables-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Pivot Tables"/>
 </p>
 
-### Data Science & Machine Learning
+### Data Analytics & Visualization
 <p align="left">
   <!-- Python Data Science -->
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -111,7 +111,7 @@ Data Professional with experience in data cleaning, modelling, visualization, an
 <ul>
  
 <li>
-  <strong>Superstore Sales Analysis</strong><br/>
+  <strong>Superstore Sales Analysis: </strong>
   <a href="https://github.com/Rifayabanu/Superstore-Sales-Analysis">GitHub Repository</a> | 
   <a href="https://github.com/Rifayabanu/Superstore-Sales-Analysis/blob/main/Superstore%20Sales%20Analysis.ipynb">Jupyter Notebook</a>
 </li>
