@@ -43,7 +43,7 @@ Data Analyst with experience in data cleaning, modelling, visualization, and rep
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-### Data Analytics Libraries
+### Data Analytics & Visualization
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -56,9 +56,42 @@ Data Analyst with experience in data cleaning, modelling, visualization, and rep
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
-
 ---
-
+<table>
+  <tr>
+    <td align="center">
+        <h2 align="center">CompTIA Data+ ce</h2>
+        <a href="https://www.credly.com/users/steven-tapscott/badges#credly">
+        <img 
+            src="https://images.credly.com/size/340x340/images/eef81318-aaa6-4e40-83bd-d40a6ee27b28/blob" 
+            alt="CompTIA Data+ ce" 
+            width="250"
+        />
+        </a>
+    </td>
+    <td align="center">
+        <h2 align="center">Data Foundations Analyst</h2>
+        <a href="https://www.credly.com/users/steven-tapscott/badges#credly">
+        <img 
+            src="https://images.credly.com/size/340x340/images/6440eb9b-4262-4e25-a915-8dfd662bf39e/blob" 
+            alt="Data Foundations Analyst" 
+            width="250"
+        />
+        </a>
+    </td>
+    <td align="center">
+        <h2 align="center">BCS Business Analysis Foundation</h2>
+        <a href="https://www.credly.com/users/steven-tapscott/badges#credly">
+        <img 
+            src="https://images.credly.com/size/340x340/images/915addf1-19b1-4ccb-af08-5f1b785a5140/image.png" 
+            alt="BCS Business Analysis Foundation" 
+            width="250"
+        />
+        </a>
+    </td>
+  </tr>
+</table>
+---
 ## Projects
 
 <ul>
