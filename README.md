@@ -57,13 +57,26 @@ Data Analyst with experience in data cleaning, modelling, visualization, and rep
   <img src="https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
+<h2 align="center">Certifications</h2>
+
+<p align="center">
+
+  <a href="https://www.credly.com/users/rifaya-banu-magdoom">
+    <img src="https://images.credly.com/images/eef81318-aaa6-4e40-83bd-d40a6ee27b28/blob" width="120" />
+  </a>
+
+  <a href="https://www.credly.com/users/rifaya-banu-magdoom">
+    <img src="https://images.credly.com/images/915addf1-19b1-4ccb-af08-5f1b785a5140/image.png" width="120" />
+  </a>
+
+</p>
 
 ## Projects
 
 <ul>
   <li>
     <strong>Superstore Sales Analysis: </strong>
-    <a href="https://github.com/Rifayabanu/Superstore-Sales-Analysis">REPO</a> | 
+    <a href="https://github.com/Rifayabanu/Superstore-Sales-Analysis">REPO</a> 
   <!--  <a href="https://github.com/Rifayabanu/Superstore-Sales-Analysis/blob/main/Superstore%20Sales%20Analysis.ipynb">Jupyter Notebook</a> -->
   </li>
 </ul>
@@ -71,7 +84,7 @@ Data Analyst with experience in data cleaning, modelling, visualization, and rep
 <ul>
   <li>
     <strong>GameZone Sales Insight Analysis: </strong>
-    <a href="https://github.com/Rifayabanu/GameZone-Sales-Insight-Analysis">REPO</a> | 
+    <a href="https://github.com/Rifayabanu/GameZone-Sales-Insight-Analysis">REPO</a> 
   
   </li>
 </ul>
