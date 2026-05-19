@@ -109,9 +109,11 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 <ul>
   <li>
-  <strong>Bitcoin Analyiz:</strong> 
-  <a href="#">[REPO LINK](https://github.com/Rifayabanu/Superstore-Sales-Analysis)</a> | 
-  <a href="#">Notebook</a>
+ <strong>Superstore Sales Analysis:</strong> 
+  <a href="https://github.com/Rifayabanu/Superstore-Sales-Analysis">
+    Repo Link
+ <!-- </a> | 
+  <a href="#">Notebook</a> -->
   </li>
 
  
