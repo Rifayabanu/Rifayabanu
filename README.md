@@ -59,38 +59,45 @@ Data Analyst with experience in data cleaning, modelling, visualization, and rep
 
 <h2 align="center">Certifications</h2>
 
+<h2 align="center">Certifications</h2>
+
 <table align="center">
   <tr>
 
-    <td align="center" width="220">
+    <td align="center" width="200">
       <strong>CompTIA Data+</strong><br/><br/>
       <a href="https://www.credly.com/badges/8eaa9f02-33a9-4cad-916e-ee9ed71ada3b">
         <img src="https://images.credly.com/size/340x340/images/eef81318-aaa6-4e40-83bd-d40a6ee27b28/blob" width="120"/>
       </a>
     </td>
 
-    <td align="center" width="220">
+    <td align="center" width="200">
       <strong>BCS Business Analysis Foundation</strong><br/><br/>
       <a href="https://www.credly.com/badges/eb3c24cd-3d47-4bf3-ad1e-d992821e0908">
         <img src="https://images.credly.com/size/340x340/images/915addf1-19b1-4ccb-af08-5f1b785a5140/image.png" width="120"/>
       </a>
     </td>
 
-    <td align="center" width="220">
+  </tr>
+
+  <tr>
+
+    <td align="center" width="200">
       <strong>Oracle Database SQL Certified Expert</strong><br/><br/>
       <a href="https://www.credly.com/badges/f0037ec2-4f5a-4ff1-8ae3-ee1c34eca450">
-        <img src="https://images.credly.com/size/340x340/images/placeholder.png" width="120"/>
+        <img src="https://images.credly.com/size/340x340/images/f0037ec2-4f5a-4ff1-8ae3-ee1c34eca450/blob" width="120"/>
       </a>
     </td>
 
-    <td align="center" width="220">
+    <td align="center" width="200">
       <strong>Oracle PL/SQL Developer Associate</strong><br/><br/>
       <a href="https://www.credly.com/badges/9c6bf6bb-abf5-4f83-bf98-565760d3a324">
-        <img src="https://images.credly.com/size/340x340/images/placeholder.png" width="120"/>
+        <img src="https://images.credly.com/size/340x340/images/9c6bf6bb-abf5-4f83-bf98-565760d3a324/blob" width="120"/>
       </a>
     </td>
 
   </tr>
+
 </table>
 
 ## Projects
