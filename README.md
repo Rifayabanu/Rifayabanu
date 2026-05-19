@@ -57,38 +57,39 @@ Data Analyst with experience in data cleaning, modelling, visualization, and rep
   <img src="https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-<table>
+<h2 align="center">Certifications</h2>
+
+<table align="center">
   <tr>
-    <td align="center">
-        <h2 align="center">CompTIA Data+ ce</h2>
-        <a href="https://www.credly.com/users/steven-tapscott/badges#credly">
-        <img 
-            src="https://images.credly.com/size/340x340/images/eef81318-aaa6-4e40-83bd-d40a6ee27b28/blob" 
-            alt="CompTIA Data+ ce" 
-            width="250"
-        />
-        </a>
+
+    <td align="center" width="220">
+      <strong>CompTIA Data+</strong><br/><br/>
+      <a href="https://www.credly.com/badges/8eaa9f02-33a9-4cad-916e-ee9ed71ada3b">
+        <img src="https://images.credly.com/size/340x340/images/eef81318-aaa6-4e40-83bd-d40a6ee27b28/blob" width="120"/>
+      </a>
     </td>
-    <td align="center">
-        <h2 align="center">Data Foundations Analyst</h2>
-        <a href="https://www.credly.com/users/steven-tapscott/badges#credly">
-        <img 
-            src="https://images.credly.com/size/340x340/images/6440eb9b-4262-4e25-a915-8dfd662bf39e/blob" 
-            alt="Data Foundations Analyst" 
-            width="250"
-        />
-        </a>
+
+    <td align="center" width="220">
+      <strong>BCS Business Analysis Foundation</strong><br/><br/>
+      <a href="https://www.credly.com/badges/eb3c24cd-3d47-4bf3-ad1e-d992821e0908">
+        <img src="https://images.credly.com/size/340x340/images/915addf1-19b1-4ccb-af08-5f1b785a5140/image.png" width="120"/>
+      </a>
     </td>
-    <td align="center">
-        <h2 align="center">BCS Business Analysis Foundation</h2>
-        <a href="https://www.credly.com/users/steven-tapscott/badges#credly">
-        <img 
-            src="https://images.credly.com/size/340x340/images/915addf1-19b1-4ccb-af08-5f1b785a5140/image.png" 
-            alt="BCS Business Analysis Foundation" 
-            width="250"
-        />
-        </a>
+
+    <td align="center" width="220">
+      <strong>Oracle Database SQL Certified Expert</strong><br/><br/>
+      <a href="https://www.credly.com/badges/f0037ec2-4f5a-4ff1-8ae3-ee1c34eca450">
+        <img src="https://images.credly.com/size/340x340/images/placeholder.png" width="120"/>
+      </a>
     </td>
+
+    <td align="center" width="220">
+      <strong>Oracle PL/SQL Developer Associate</strong><br/><br/>
+      <a href="https://www.credly.com/badges/9c6bf6bb-abf5-4f83-bf98-565760d3a324">
+        <img src="https://images.credly.com/size/340x340/images/placeholder.png" width="120"/>
+      </a>
+    </td>
+
   </tr>
 </table>
 
