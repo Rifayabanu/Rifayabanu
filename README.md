@@ -108,13 +108,15 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 
 <ul>
-  <li>
- <strong>Superstore Sales Analysis:</strong> 
+ <li>
+  <strong>Superstore Sales Analysis:</strong> 
   <a href="https://github.com/Rifayabanu/Superstore-Sales-Analysis">
     Repo Link
- </a> | 
-  <a href="#">Jupyter Notebook "[Jupyter Notebook](https://github.com/Rifayabanu/Superstore-Sales-Analysis/blob/main/Superstore%20Sales%20Analysis.ipynb)"</a> 
-  </li>
+  </a> | 
+  <a href="https://github.com/Rifayabanu/Superstore-Sales-Analysis/blob/main/Superstore%20Sales%20Analysis.ipynb">
+    Jupyter Notebook
+  </a>
+</li>
 
  
   
